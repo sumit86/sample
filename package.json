@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit86/sample.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Sj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumit86/sample/issues"
+  },
+  "homepage": "https://github.com/sumit86/sample#readme"
+}
